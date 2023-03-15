@@ -1,0 +1,19 @@
+{
+  "name": "is-tdm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JZenon13/is-Tdm.git"
+  },
+  "author": "jzenon13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JZenon13/is-Tdm/issues"
+  },
+  "homepage": "https://github.com/JZenon13/is-Tdm#readme"
+}
